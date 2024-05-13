@@ -1,0 +1,15 @@
+#---- Web Application Packages ----
+Django = 4.2.3
+
+#---- Encryption Packages ----
+AdvancedFernetDataEncryption =1.1
+
+#---- Quickbook Packages ----
+intuit-oauth = 1.2.4
+
+#---- OCR Packages ----
+#---- Optical Character Recognization ----
+opencv-python = 4.8.0.74
+pytesseract = 0.3.10
+pillow = 10.0.0
+pygame = 2.5.0
